@@ -10,3 +10,24 @@ size = 16.0
 
 [colors.primary]
 background = "#000000"
+
+[colors.normal]
+black = "#000000"
+red = "#CC0403"
+green = "#19CB00"
+yellow = "#CECB00"
+blue = "#0D73CC"
+magenta = "#CB1ED1"
+cyan = "#0DCDCD"
+white = "#DDDDDD"
+
+[colors.bright]
+black = "#767676"
+red = "#F2202F"
+green = "#23FD00"
+yellow = "#FFFD00"
+blue = "#1A8FFF"
+magenta = "#FD28FF"
+cyan = "#14FFFF"
+white = "#FFFFFF"
+
