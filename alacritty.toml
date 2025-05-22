@@ -16,23 +16,3 @@ import = [
 
 [colors.primary]
 background = "#000000"
-#
-# [colors.normal]
-# black = "#000000"
-# red = "#FF263F"
-# green = "#A9E15C"
-# yellow = "#FDD33F"
-# blue = "#0093FD"
-# magenta = "#9B5EE9"
-# cyan = "#66FFF3"
-# white = "#FEFEFE"
-#
-# [colors.bright]
-# black = "#434343"
-# red = "#FF010F"
-# green = "#8BE20A"
-# yellow = "#FEB800"
-# blue = "#018CF5"
-# magenta = "#6D45A8"
-# cyan = "#02D9EB"
-# white = "#FEFEFE"
