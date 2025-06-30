@@ -11,7 +11,7 @@ size = 14.0
 
 [general]
 import = [
-	"~/.config/alacritty/tokyodark.toml"
+    "~/.cache/wal/colors-alacritty.toml"
 ]
 
 [colors.primary]
